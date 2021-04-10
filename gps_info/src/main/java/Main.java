@@ -27,8 +27,8 @@ import java.util.List;
 public class Main {
   //private static final String applicationID = "63d1cb74-4ac6-410c-a6bf-b008db87aba1";
   //private static final String certificationVersionID = "cc9b00a1-8009-409b-ab06-88cb08109322";
-  private static final String applicationID = "63d1cb74-4ac6-410c-a6bf-b008db87aba1";
-  private static final String certificationVersionID = "cc9b00a1-8009-409b-ab06-88cb08109322";
+  private static final String applicationID = "5177c6ec-ff18-4e34-855a-4826db5c666c";
+  private static final String certificationVersionID = "b9623fb0-ee39-4f52-ad4c-309788a4a76f";
   private static Environment environment;
   private static List<AppInstance> appInstances;
   private static RouterDevice routerDevice;
